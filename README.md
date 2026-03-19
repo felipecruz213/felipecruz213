@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe Cruz!
+# Olá, eu sou o Felipe!
 
 ### Desenvolvedor Fullstack em Formação | Certificado Codemaster | IEFP 🚀
 
@@ -51,4 +51,4 @@ Sou um entusiasta de tecnologia focado em construir soluções robustas e eficie
 - [**IEFP-Exercicios**](https://github.com/felipecruz213/IEFP-Exercicios): Repositório com laboratórios práticos de C#, Python, SQL e COBOL.
 
 ---
-*“Prática intensiva e resolução de problemas reais.”*
+
